@@ -9,5 +9,5 @@ Second assignment: Setup of the VPN for an internal tunnel and setup of Road War
 \
 Third assignment: Forward Proxy configuration and Reverse Proxy configuration. \
 \
-Fourth assignment: Configuration of the Log Server and configuration of a log inside a client (Kali). \
+Fourth assignment: Configuration of the Log Server and configuration of a log inside a client (Kali).
 
